@@ -6,7 +6,7 @@
 //     scanf("%d", &age);
 //     printf("age is : %d", age);
 // }
-
+// basic program
 int main(){
     int num1;
     int num2;
